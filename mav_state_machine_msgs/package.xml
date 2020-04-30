@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <package format="2">
   <name>mav_state_machine_msgs</name>
   <version>0.0.1</version>
@@ -6,9 +7,13 @@
   <maintainer email="giuseppe.silano@unisannio.it">Giuseppe Silano</maintainer>
 
   <author>Christian Lanegger</author>
+  <author>Ria Sonecha</author>
   <author>Giuseppe Silano</author>
 
   <license>ASL 2.0</license>
+
+  <url type="website">https://github.com/GRACE-GROUP/mav_comm</url>
+  <url type="bugtracker">https://github.com/GRACE-GROUP/mav_comm/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
